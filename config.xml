@@ -22,16 +22,16 @@
 	<preference name="splash-screen-duration" value="1000" />
 
     <icon src="icon.png" />
-    <icon src="icons/icon36.png"   gap:platform="android"    gap:density="ldpi" />
-    <icon src="icons/icon48.png"   gap:platform="android"    gap:density="mdpi" />
-    <icon src="icons/icon72.png"   gap:platform="android"    gap:density="hdpi" />
-    <icon src="icons/icon96.png"  gap:platform="android"    gap:density="xhdpi" />
+    <icon src="icon/icon36.png"   gap:platform="android"    gap:density="ldpi" />
+    <icon src="icon/icon48.png"   gap:platform="android"    gap:density="mdpi" />
+    <icon src="icon/icon72.png"   gap:platform="android"    gap:density="hdpi" />
+    <icon src="icon/icon96.png"  gap:platform="android"    gap:density="xhdpi" />
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" />
     <icon src="res/icon/blackberry/icon-80.png"     gap:platform="blackberry" gap:state="hover"/>
-    <icon src="icons/icon57x57.png"            gap:platform="ios"        width="57" height="57" />
-    <icon src="icons/icon72x72.png"            gap:platform="ios"        width="72" height="72" />
-    <icon src="res/icon/ios/icon-57-2x.png"         gap:platform="ios"        width="114" height="114" />
-    <icon src="res/icon/ios/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
+    <icon src="icon/icon57x57.png"            gap:platform="ios"        width="57" height="57" />
+    <icon src="icon/icon72x72.png"            gap:platform="ios"        width="72" height="72" />
+    <icon src="icon/ios/icon-57-2x.png"         gap:platform="ios"        width="114" height="114" />
+    <icon src="icon/ios/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
     <icon src="res/icon/webos/icon-64.png"          gap:platform="webos" />
     <icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" />
     <icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" />
