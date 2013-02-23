@@ -36,13 +36,11 @@
     <icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" />
     <icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" />
 
-    <gap:splash src="splash.png" />
 	<gap:splash src="splash/ios/splash320x480.png" width="320" height="480" />
 	<gap:splash src="splash/ios/splash640x960.png" width="640" height="960" />
 	<gap:splash src="splash/ios/splash640x1132.png" width="640" height="1136" />
 	<gap:splash src="splash/ios/splash1024x768.png" width="1024" height="768" />
-	<gap:splash src="splash/ios/splash768x1024.png" width="768" height="1024" />
-	
+	<gap:splash src="splash/ios/splash768x1024.png" width="768" height="1024" />	
 	<gap:splash src="splash/android/splash320x426.png" gap:platform="android" gap:density="ldpi" />
 	<gap:splash src="splash/android/splash320x470.png" gap:platform="android" gap:density="mdpi" />
 	<gap:splash src="splash/android/splash480x640.png" gap:platform="android" gap:density="hdpi" />
