@@ -21,7 +21,6 @@
     <preference name="fullscreen"       value="false" />
 	<preference name="splash-screen-duration" value="1800" />
 
-    <icon src="icon.png" />
     <icon src="icon/icon36.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="icon/icon48.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="icon/icon72.png"   gap:platform="android"    gap:density="hdpi" />
